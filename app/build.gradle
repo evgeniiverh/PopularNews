@@ -20,6 +20,7 @@ android {
 }
 
 dependencies {
+    //https://github.com/shrikanth7698/Custom-Navigation-Drawer
     implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation "androidx.appcompat:appcompat-resources:1.1.0"
     implementation 'androidx.constraintlayout:constraintlayout:1.1.3'
